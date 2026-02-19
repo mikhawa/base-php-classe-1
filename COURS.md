@@ -140,7 +140,7 @@ Nous préférons XAMPP à MAMP, car MAMP (version gratuite) pose des problèmes 
 
 ### 3.4 - Vérification de l'installation
 
-Créez un fichier `info-php.php` dans votre dossier `Stagiaires\{Prenom}`  avec le contenu suivant :
+Créez un fichier `info-php.php` dans votre dossier `Stagiaire\{Prenom}`  avec le contenu suivant :
 
 ```php
 <?php
@@ -286,13 +286,13 @@ echo "<br>Hello friends";
 📖 [Documentation : Balises PHP](https://www.php.net/manual/fr/language.basic-syntax.phptags.php)
 
 #### ✏️ Exercice 01
-> Créez un fichier `01-hello-world.php` dans votre dossier `Stagiaires\{Prenom}\` qui affiche **"Hello World"** dans le navigateur.
+> Créez un fichier `01-hello-world.php` dans votre dossier `Stagiaire\{Prenom}\` qui affiche **"Hello World"** dans le navigateur.
 
 #### ✏️ Exercice 02
-> Créez un fichier `02-hello-world-short.php` dans votre dossier `Stagiaires\{Prenom}\` qui affiche **"Hello World"** en utilisant la balise courte `<?= ?>`.
+> Créez un fichier `02-hello-world-short.php` dans votre dossier `Stagiaire\{Prenom}\` qui affiche **"Hello World"** en utilisant la balise courte `<?= ?>`.
 
 #### ✏️ Exercice 03
-> Créez un fichier `03-hello-friends.php` dans votre dossier `Stagiaires\{Prenom}\` qui affiche **"Hello World"** suivi de **"Hello friends"** sur la ligne suivante.
+> Créez un fichier `03-hello-friends.php` dans votre dossier `Stagiaire\{Prenom}\` qui affiche **"Hello World"** suivi de **"Hello friends"** sur la ligne suivante.
 
 ---
 
@@ -315,7 +315,7 @@ sur plusieurs lignes
 📖 [Documentation : Commentaires](https://www.php.net/manual/fr/language.basic-syntax.comments.php)
 
 #### ✏️ Exercice 04
-> Créez un fichier `04-commentaires.php` dans votre dossier `Stagiaires\{Prenom}\` qui **n'affiche rien** dans le navigateur, mais contient les trois types de commentaires.
+> Créez un fichier `04-commentaires.php` dans votre dossier `Stagiaire\{Prenom}\` qui **n'affiche rien** dans le navigateur, mais contient les trois types de commentaires.
 
 ---
 
@@ -345,7 +345,7 @@ Nous avons utilisé la fonction native `date()` et stocké le résultat dans une
 📖 [Documentation : date()](https://www.php.net/manual/fr/function.date.php) | [Formats de date](https://www.php.net/manual/fr/datetime.format.php)
 
 #### ✏️ Exercice 05
-> Créez un fichier `05-php-placement.php` dans votre dossier `Stagiaires\{Prenom}\` qui affiche la date et l'heure du serveur dans une page HTML complète.
+> Créez un fichier `05-php-placement.php` dans votre dossier `Stagiaire\{Prenom}\` qui affiche la date et l'heure du serveur dans une page HTML complète.
 
 ---
 
