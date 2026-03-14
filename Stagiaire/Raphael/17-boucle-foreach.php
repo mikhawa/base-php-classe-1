@@ -2,7 +2,7 @@
 $classe = ['Jean-Claude', 'Jam-Bon', 'Jean-Marc', 'Jean-Jacques', 'Jean-Phillip','Jean-Christophe','Jean-Luc','Jean-Jules','Jean-Pierre','Jean-Louis'];
 ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
