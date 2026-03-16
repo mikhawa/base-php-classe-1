@@ -3,9 +3,9 @@ $note = mt_rand(0, 10);
 
 if ($note <= 3) {
     echo "{$note} : Nul, étudie la prochaine fois";
-} elseif ($note >= 3 && $note <= 5 ){
+} elseif ($note <= 5 ){
     echo "{$note} : Peut mieux faire";
-} elseif ($note >= 6 && $note <= 7 ){
+} elseif ($note <= 7 ){
     echo "{$note} : Bien";
 } else {
     echo "{$note} : Très Bien";
