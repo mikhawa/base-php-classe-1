@@ -48,6 +48,15 @@ Mettez-y des `.gitkeep` dans chaque dossier et faîtes des commit.
 # __DIR__ constante magique qui donnera
 # le chemin absolu vers la racine du projet
 const ROOT_PATH = __DIR__;
+
+// constante contenant les pages accessibles sans être connecté
+const PUBLIC_PAGES = [
+    'home',
+    'about',
+    'contact',
+    'login',
+    'register',
+];
 ```
 
 Créez le fichier `config.php` à la racine du projet. Il est protégé grâce au `.gitconfig`.
